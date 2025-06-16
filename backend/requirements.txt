@@ -1,1 +1,4 @@
-fastapi uvicorn asyncpraw torch
+fastapi
+uvicorn
+asyncpraw
+torch
