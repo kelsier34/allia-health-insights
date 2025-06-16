@@ -1,1 +1,1 @@
-fastapi uvicorn asyncpraw torch transformers
+fastapi uv
